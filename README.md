@@ -67,7 +67,7 @@ MIT © [Benedikt Hübschen][bhuebschen]
 
 <!-- References -->
 
-[preview]: https://github.com/bhuebschen/velux-card/assets/1864448/39352877-43fa-49ce-a517-079e3783a95d
+[preview]: https://github.com/bhuebschen/velux-card/assets/1864448/3fda452c-3d25-4c82-8e9e-adaed43b9af1
 [home-assistant]: https://www.home-assistant.io/
 [hacs]: https://hacs.xyz
 [latest-release]: https://github.com/bhuebschen/velux-card/releases/latest
